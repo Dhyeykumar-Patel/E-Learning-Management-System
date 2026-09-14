@@ -1,0 +1,242 @@
+========== ALL RESULTS ==========
+
+======================================
+Result ID       : 1
+Student Name    : dhyey n patel
+Student Email   : dhyey1@gmail.com
+Student Mobile  : 9988776655
+Course          : Java II
+Total Questions : 5
+Correct Answers : 4
+Wrong Answers   : 1
+Marks           :8
+Total Marks     : 10
+Percentage      : 80.00%
+Result          : PASS
+Result Date     : 2026-08-01
+======================================
+
+======================================
+Result ID       : 2
+Student Name    : dhyey Patel
+Student Email   : dhyey@gmail.com
+Student Mobile  : 9876543210
+Course          : DBMS
+Total Questions : 5
+Correct Answers : 5
+Wrong Answers   : 0
+Marks           :10
+Total Marks     : 10
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-01
+======================================
+
+======================================
+Result ID       : 3
+Student Name    : Meet Shah
+Student Email   : meet@gmail.com
+Student Mobile  : 9876543212
+Course          : Data Structure
+Total Questions : 5
+Correct Answers : 3
+Wrong Answers   : 2
+Marks           :6
+Total Marks     : 10
+Percentage      : 60.00%
+Result          : PASS
+Result Date     : 2026-08-01
+======================================
+
+======================================
+Result ID       : 4
+Student Name    : Priya Patel
+Student Email   : priya@gmail.com
+Student Mobile  : 9876543213
+Course          : Java I
+Total Questions : 5
+Correct Answers : 2
+Wrong Answers   : 3
+Marks           :4
+Total Marks     : 10
+Percentage      : 40.00%
+Result          : PASS
+Result Date     : 2026-08-01
+======================================
+
+======================================
+Result ID       : 5
+Student Name    : Yash Patel
+Student Email   : yash@gmail.com
+Student Mobile  : 9876543211
+Course          : Data Structure
+Total Questions : 5
+Correct Answers : 1
+Wrong Answers   : 4
+Marks           :2
+Total Marks     : 10
+Percentage      : 20.00%
+Result          : FAIL
+Result Date     : 2026-08-01
+======================================
+
+======================================
+Result ID       : 9
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : c++
+Total Questions : 0
+Correct Answers : 0
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 10
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : Java II
+Total Questions : 0
+Correct Answers : 0
+Wrong Answers   : 0
+Marks           :0
+Total Marks     : 2
+Percentage      : 0.00%
+Result          : FAIL
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 11
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : c++
+Total Questions : 0
+Correct Answers : 0
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 12
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : c++
+Total Questions : 1
+Correct Answers : 1
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 13
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : Java II
+Total Questions : 1
+Correct Answers : 0
+Wrong Answers   : 1
+Marks           :0
+Total Marks     : 2
+Percentage      : 0.00%
+Result          : FAIL
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 14
+Student Name    : Esha Patel
+Student Email   : esha@gmail.com
+Student Mobile  : 9876543220
+Course          : Data Structure
+Total Questions : 1
+Correct Answers : 1
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 15
+Student Name    : Harsh Patel
+Student Email   : harsh@gmail.com
+Student Mobile  : 9876543219
+Course          : c++
+Total Questions : 1
+Correct Answers : 1
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 16
+Student Name    : Harsh Patel
+Student Email   : harsh@gmail.com
+Student Mobile  : 9876543219
+Course          : Java II
+Total Questions : 1
+Correct Answers : 0
+Wrong Answers   : 1
+Marks           :0
+Total Marks     : 2
+Percentage      : 0.00%
+Result          : FAIL
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 17
+Student Name    : Harsh Patel
+Student Email   : harsh@gmail.com
+Student Mobile  : 9876543219
+Course          : Data Structure
+Total Questions : 1
+Correct Answers : 1
+Wrong Answers   : 0
+Marks           :2
+Total Marks     : 2
+Percentage      : 100.00%
+Result          : PASS
+Result Date     : 2026-08-11
+======================================
+
+======================================
+Result ID       : 18
+Student Name    : Harsh Patel
+Student Email   : harsh@gmail.com
+Student Mobile  : 9876543219
+Course          : java I
+Total Questions : 1
+Correct Answers : 0
+Wrong Answers   : 1
+Marks           :0
+Total Marks     : 2
+Percentage      : 0.00%
+Result          : FAIL
+Result Date     : 2026-08-11
+======================================
+

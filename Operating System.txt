@@ -1,0 +1,17 @@
+==============================
+OPERATING SYSTEM NOTES
+==============================
+
+Chapter 1: Introduction
+Chapter 2: Processes
+Chapter 3: Threads
+Chapter 4: CPU Scheduling
+Chapter 5: Synchronization
+Chapter 6: Deadlock
+Chapter 7: Memory Management
+Chapter 8: Virtual Memory
+Chapter 9: File System
+Chapter 10: I/O Management
+Chapter 11: Security
+
+Prepared by: Amit Sharma
