@@ -6,7 +6,41 @@ The system provides modules for managing students, teachers, courses, quizzes, a
 
 ---
 
-## 🚀 Features
+## 📌 Project Overview
+
+The E-Learning Management System is a Java-based academic project designed to manage students, teachers, courses, quizzes, results, attendance, and assignments.
+
+The project uses Java, JDBC, MySQL, SQL, and Data Structures to demonstrate Java-II, DBMS, and Data Structures concepts.
+
+## ✨ Features
+
+- Student Management
+- Teacher Management
+- Course Management
+- Quiz Management
+- Result Management
+- Attendance Management
+- Assignment Management
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Java | Application development |
+| JDBC | Database connectivity |
+| MySQL | Database |
+| SQL | Database operations |
+| Data Structures | Data management |
+| IntelliJ IDEA | Development environment |
+| Git & GitHub | Version control |
+
+## 👨‍💻 Author
+
+**Dhyeykumar Nileshkumar Patel**
+
+GitHub: [Dhyeykumar-Patel](https://github.com/Dhyeykumar-Patel)
+
+LinkedIn: [Dhyeykumar Patel](https://www.linkedin.com/in/dhyey-patel-547299435/)
 
 ### 👨‍🎓 Student Management
 - Student registration and login
